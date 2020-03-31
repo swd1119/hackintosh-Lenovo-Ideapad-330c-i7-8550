@@ -1,0 +1,275 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 6.1020.2125.221
+  时间:             2020-03-18 15:21:41
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            联想 81J5 笔记本电脑
+  操作系统            Windows 10 专业版 64位 ( Version 1903 / DirectX 12 )
+
+  处理器              英特尔 Core i7-8550U @ 1.80GHz 四核
+  主板                联想 LNVNB161216 ( 7th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )
+  显卡                Nvidia GeForce MX110 ( 2 GB )
+  内存                12 GB ( 记忆科技 DDR4 2666MHz )
+  主硬盘               Lenovo SSD ST510 256G ( 256 GB / 固态硬盘 )
+  显示器              奇美 CMN14A7 ( 14 英寸  )
+  声卡                瑞昱  @ 英特尔 High Definition Audio 控制器
+  网卡                瑞昱 RTL810x/8139 Family Fast Ethernet NIC / 联想
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            联想 LNVNB161216
+  芯片组              7th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组
+  BIOS                8QCN17WW(V1.05)  /  BIOS程序发布日期: 11/21/2018
+
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 Core i7-8550U @ 1.80GHz 四核
+  速度                2.00 GHz (100 MHz x 20.0)
+  处理器数量          核心数: 4 / 线程数: 8
+  插槽/插座           U3E1
+  一级数据缓存        4 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        4 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            4 x 256 KB, 4-Way, 64 byte lines
+  三级缓存            8 MB, 16-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                东芝  MQ04ABF100
+  大小                1 TB
+  转速                5400 转/分
+  硬盘已使用          共 1895 次，累计 7713 小时
+  固件                JU002E
+  接口                SATA III
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+  产品                Lenovo  SSD  ST510  256G (固态硬盘)
+  大小                256 GB
+  硬盘已使用          共 1874 次，累计 7085 小时
+  固件                R0522A0
+  接口                SATA III
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  DIMM2               记忆科技 DDR4 2666MHz 8GB
+  制造日期            2018 年 25 周
+  型号                7F7F7F7F43 RMSA3260MH78HAF-2666
+  序列号              227DB3CD
+  厂商                Ramaxel
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  显卡                英特尔 UHD Graphics 620
+  显存                128 MB
+  制造商              联想
+  制造商              Intel
+  驱动版本            26.20.100.6911
+  驱动日期            20190528
+
+  主显卡              Nvidia GeForce MX110
+  显存                2 GB
+  制造商              Nvidia
+  驱动版本            24.21.13.9836
+  驱动日期            20180624
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                奇美 CMN14A7
+  厂商                奇美
+  固件程序日期        2015 年 14 周 (非显示器制造日期)
+  屏幕尺寸            14 英寸 (31 厘米 x 17 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1536 x 864 32 位真彩色
+  Gamma               2.20
+  最大分辨率          1920 x 1080
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  网卡                瑞昱 RTL810x/8139 Family Fast Ethernet NIC
+  制造商              联想
+
+  无线网卡            瑞昱 Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+  制造商              联想
+
+  声卡                瑞昱  @ 英特尔 High Definition Audio 控制器
+
+  键盘                ELAN 标准键盘 Filter Device
+  键盘                spacedesk 标准键盘
+  鼠标                spacedesk 鼠标
+  鼠标                HID-compliant 鼠标
+  鼠标                ELAN 指点杆
+
+  摄像头              EasyCamera
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Xeon E3 - 1200 v6/7th Gen Intel Core Host Bridge/DRAM Registers - 5914
+  设备ID              5914
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Lenovo
+  子系统ID            382517AA
+
+  设备                UHD Graphics 620
+  设备ID              5917
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Lenovo
+  子系统ID            397B17AA
+
+  设备                符合 USB xHCI 的主机控制器
+  设备ID              9D2F
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Lenovo
+  子系统ID            386D17AA
+
+  设备                Mobile 6th/7th Generation Intel Processor Family I/O Thermal subsystem - 9D31
+  设备ID              9D31
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Lenovo
+  子系统ID            385F17AA
+
+  设备                串行 IO I2C 主机控制器 - 9D60
+  设备ID              9D60
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Lenovo
+  子系统ID            386217AA
+
+  设备                Management Engine Interface
+  设备ID              9D3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Lenovo
+  子系统ID            386A17AA
+
+  设备                6th Generation Core Processor Family Platform I/O SATA AHCI Controller
+  设备ID              9D03
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Lenovo
+  子系统ID            386717AA
+
+  设备                Mobile 6th/7th Generation Intel Processor Family I/O PCI Express Root Port #1 - 9D10
+  设备ID              9D10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Mobile 6th/7th Generation Intel Processor Family I/O PCI Express Root Port #5 - 9D14
+  设备ID              9D14
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Mobile 6th/7th Generation Intel Processor Family I/O PCI Express Root Port #6 - 9D15
+  设备ID              9D15
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Mobile 7th Generation Intel Processor Family I/O LPC Controller  - 9D4E
+  设备ID              9D4E
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Lenovo
+  子系统ID            380317AA
+
+  设备                Mobile 6th/7th Generation Intel Processor Family I/O PMC - 9D21
+  设备ID              9D21
+  制造商              Intel
+  制造商ID            8086
+  类别                Memory / Other
+  子系统制造商        Lenovo
+  子系统ID            386F17AA
+
+  设备                High Definition Audio 控制器
+  设备ID              9D71
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Lenovo
+  子系统ID            383417AA
+
+  设备                Mobile 6th/7th Generation Intel Processor Family I/O SMBUS - 9D23
+  设备ID              9D23
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Lenovo
+  子系统ID            386B17AA
+
+  设备                RTL810x/8139 Family Fast Ethernet NIC
+  设备ID              8136
+  制造商              Realtek
+  制造商ID            10EC
+  类别                Network / Ethernet
+  子系统制造商        Lenovo
+  子系统ID            386017AA
+
+  设备                Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+  设备ID              C821
+  制造商              Realtek
+  制造商ID            10EC
+  类别                Network / Other
+  子系统制造商        Lenovo
+  子系统ID            C02417AA
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            05AC
+  产品ID              12A8
+  类别                0 / 0 / 0
+  设备                Apple Inc. iPhone
+  Serial              d6e95dc6de426d3b9a50005837ddb4f0b132adcb
+  版本                USB 2.0
+
+  制造商ID            17EF
+  产品ID              6087
+  类别                0 / 0 / 0
+  设备                Wings Chip ThinkLife Silent Wireless Mouse WLM200
+  Serial              ?
+  版本                USB 2.0
+
+  制造商ID            0BDA
+  产品ID              C024
+  类别                224 / 1 / 1
+  设备                 
+  版本                USB 1.1
+
+  制造商ID            174F
+  产品ID              116A
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  名称                CommonEC CommonEC
+  CPU温度             53℃
+  CPU核心             53℃
+  CPU封装             53℃
+  硬盘温度            40℃
+  风扇                3328转
+
